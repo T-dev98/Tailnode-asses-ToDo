@@ -1,7 +1,7 @@
 # ToDo App
 - This is a offline ToDo App built in React
 # Dependencies
-- React npm create-react-app
+- React: npx create-react-app
 - React Dom
 - React Hooks
 # Functionality
